@@ -1,0 +1,11 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "private":"true",
+  "author": "Karl Hedin Sånemyr <karl.hedin@jayway.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
